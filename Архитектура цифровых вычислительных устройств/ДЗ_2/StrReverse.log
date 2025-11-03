@@ -1,0 +1,7 @@
+execve("./StrReverse", ["./StrReverse"], 0x7fff9926ec80 /* 60 vars */) = 0
+write(1, "Enter string: \0", 15)        = 15
+read(0, "abcdefg\n", 128)               = 8
+write(1, "Reversed string: \0", 18)     = 18
+write(1, "gfedcba\0\n\0", 10)           = 10
+exit(0)                                 = ?
++++ exited with 0 +++
